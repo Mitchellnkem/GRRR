@@ -19,3 +19,29 @@ h3{
 	font-size: 3rem;
 	color: goldenrod;
 }
+.we{
+font-size: 12rem;
+color: black;
+text-align: center;
+}
+
+.f{
+	height: 500px;
+	width:	500px;
+	padding-left: 25%;
+}
+
+.ff{
+	height: 500px;
+	width: 450px;
+}
+.fff{
+	height: 700px;
+	width: 450px;
+}
+.r{
+	height: 10%;
+	width: 50%;
+	padding-left: 20%;
+	
+}
