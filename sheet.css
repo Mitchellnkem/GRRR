@@ -2,21 +2,21 @@ h1{
 	text-align: center;
 	font-weight: bolder;
 	font-style: italic;
-	font-size: 5rem;
+	font-size: 2rem;
 	color: goldenrod;
 }
 h2{
 	text-align: center;
 	font-weight: bolder;
 	font-style: italic;
-	font-size: 3rem;
+	font-size: 1rem;
 	color: goldenrod;
 }
 h3{
 	text-align: center;
 	font-weight: bolder;
 	font-style: italic;
-	font-size: 3rem;
+	font-size: 1rem;
 	color: goldenrod;
 }
 .we{
@@ -35,10 +35,8 @@ text-align: center;
 	height: 500px;
 	width: 450px;
 }
-.fff{
-	height: 700px;
-	width: 450px;
-}
+
+
 .r{
 	height: 10%;
 	width: 50%;
